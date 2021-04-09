@@ -1,0 +1,2 @@
+# Snapshot
+ A responsive website
